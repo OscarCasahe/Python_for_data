@@ -81,7 +81,7 @@ code .
 
 ---
 
-## 📊 Hallazgos Principales
+## 📊 Insights Principales
 
 ### KPIs Calculados
 
